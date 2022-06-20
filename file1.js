@@ -6,7 +6,6 @@ const isOdd = (number) => {
         console.log(`${number} = NOT ODD`);
     }
 }
-
 isOdd(10);
 isOdd(11);
 
@@ -18,7 +17,6 @@ const isEven = (number) => {
         console.log(`${number} = NOT EVEN`);
     }
 }
-
 isEven(10);
 isEven(11);
 
