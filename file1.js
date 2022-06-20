@@ -1,10 +1,10 @@
-const isEven = (number) => {
-    if (number % 2 == 0) {
-        console.log(`${number} = EVEN`);
+const isOdd = (number) => {
+    if (number % 2 != 0) {
+        console.log(`${number} = ODD`);
     } else {
-        console.log(`${number} = NOT EVEN`);
+        console.log(`${number} = NOT ODD`);
     }
 }
 
-isEven(10);
-isEven(11);
+isOdd(10);
+isOdd(11);
