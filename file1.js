@@ -43,3 +43,8 @@ const multiply = (x, y) => {
     console.log(x * y);
 }
 multiply(10, 20);
+
+const cube = (number) => {
+    console.log(number ** 3);
+}
+cube(5);
