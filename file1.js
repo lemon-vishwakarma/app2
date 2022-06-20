@@ -32,3 +32,9 @@ const subtract = (x, y) => {
     console.log(x - y);
 }
 subtract(10, 20);
+
+// Divide function:
+const divide = (x, y) => {
+    console.log(x / y);
+}
+subtract(10, 20);
