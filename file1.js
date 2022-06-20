@@ -54,3 +54,8 @@ const cube = (number) => {
     console.log(number ** 3);
 }
 cube(5);
+
+const newFunc = () => {
+    console.log("Hello from newFunc");
+}
+newFunc();
