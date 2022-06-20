@@ -38,6 +38,7 @@ const divide = (x, y) => {
     console.log(x / y);
 }
 divide(10, 20);
+
 // Multiply Function:
 const multiply = (x, y) => {
     console.log(x * y);
@@ -48,3 +49,8 @@ const square = (number) => {
     console.log(number ** 2);
 }
 square(5);
+
+const cube = (number) => {
+    console.log(number ** 3);
+}
+cube(5);
