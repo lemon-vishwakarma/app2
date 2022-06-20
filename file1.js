@@ -32,3 +32,9 @@ const subtract = (x, y) => {
     console.log(x - y);
 }
 subtract(10, 20);
+
+// Multiply Function:
+const multiply = (x, y) => {
+    console.log(x * y);
+}
+subtract(10, 20);
