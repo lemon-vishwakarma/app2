@@ -33,8 +33,14 @@ const subtract = (x, y) => {
 }
 subtract(10, 20);
 
+<<<<<<< HEAD
 // Divide function:
 const divide = (x, y) => {
     console.log(x / y);
+=======
+// Multiply Function:
+const multiply = (x, y) => {
+    console.log(x * y);
+>>>>>>> multiply-function-branch
 }
 subtract(10, 20);
