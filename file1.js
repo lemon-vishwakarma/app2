@@ -20,3 +20,8 @@ const isEven = (number) => {
 isEven(10);
 isEven(11);
 
+// Subtract Function:
+const subtract = (x, y) => {
+    console.log(x - y);
+}
+subtract(10, 20);
